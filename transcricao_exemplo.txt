@@ -1,0 +1,10 @@
+# Cliente: Empresa Exemplo S.A. (fictícia)
+Você: Obrigada pelo tempo. Pode contar o cenário atual?
+Cliente: O contrato do nosso data center vence em junho e a renovação ficou cara.
+Cliente: Temos dados de clientes, então a LGPD é obrigatória em qualquer desenho.
+Cliente: Hoje os relatórios de vendas são montados de forma manual em planilhas.
+Você: Quem aprova o orçamento?
+Cliente: O CFO, e o orçamento só é liberado no primeiro trimestre.
+Cliente: O CIO quer ver uma prova de conceito antes.
+Você: Combinado. Posso propor um workshop de arquitetura com TI e finanças?
+Cliente: Sim, vamos marcar o workshop para a próxima semana.
